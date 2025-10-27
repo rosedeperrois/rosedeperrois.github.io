@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "IMG_3610.jpg"
   name             : "Rose Deperrois"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "PhD candidate at INRAE and Université Grenoble Alpes"
   location         : "Montpellier, France"
   employer         : "INRAE & Université Grenoble Alpes"
@@ -45,7 +45,7 @@ author:
   scopus           : # URL
   
   # Social media
-  linkedin         : "rose-deperrois-9b5710199/" 
+  linkedin         : "rose-deperrois-9b5710199" 
 
 
 # Publication Category - The following the list of publication categories and their headings
