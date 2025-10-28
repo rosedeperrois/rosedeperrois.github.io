@@ -43,6 +43,21 @@ $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
+/* Custom button */
+details summary {
+  cursor: pointer;
+  color: #007acc;
+}
+
+details summary:hover {
+  text-decoration: underline;
+}
+
+details p {
+  margin-top: 0.5em;
+  margin-left: 1em;
+}
+
 /* ==========================================================================
    Breakpoints
    ========================================================================== */
