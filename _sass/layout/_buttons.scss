@@ -153,28 +153,34 @@
   }
 }
 
-/* === Abstract button (using .btn style, but removing the arrow) === */
+/* === Custom "Abstract" button (green) === */
+
+/* Enlève la flèche devant le summary */
+details.abstract-box summary.btn::-webkit-details-marker,
+details.abstract-box summary.btn::marker {
+  display: none !important;
+  content: none !important;
+}
+
+/* Supprime les marges parasites */
 details.abstract-box {
   margin: 0.5em 0;
 }
 
-/* Inherit .btn style for <summary> */
-details.abstract-box summary.btn {
-  list-style: none; /* neutralise certains marqueurs */
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
+/* Couleur et style du bouton */
+.btn-abstract {
+  background-color: #215732 !important; /* vert foncé */
+  color: #fff !important;
+  border: 1px solid #215732 !important;
+  transition: all 0.2s ease-in-out;
+
+  &:hover {
+    background-color: #1b4729 !important; /* vert encore plus foncé au survol */
+    border-color: #1b4729 !important;
+  }
 }
 
-/* Remove the default marker/arrow on all browsers */
-details.abstract-box summary.btn::-webkit-details-marker {
-  display: none !important;
-}
-details.abstract-box summary.btn::marker {
-  content: none !important;
-}
-
-/* Optional: slightly adjust vertical spacing */
+/* Texte de l’abstract */
 details.abstract-box p {
   margin-top: 0.6em;
   margin-left: 0.5em;
