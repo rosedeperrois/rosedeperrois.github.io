@@ -1,24 +1,3 @@
-<style>
-/* Test rapide : doit enlever la flèche et styliser le summary */
-details.abstract-box summary {
-  cursor: pointer;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  padding: 4px 10px;
-  font-weight: 500;
-  background-color: #f8f9fa;
-  transition: all 0.15s ease-in-out;
-}
-
-/* Masquer la flèche sur tous les navigateurs — force avec !important pour le test */
-details.abstract-box summary::-webkit-details-marker { display: none !important; }
-details.abstract-box summary::marker { content: none !important; }
-details.abstract-box summary { -webkit-appearance: none; appearance: none; }
-
-/* Contenu */
-details.abstract-box p { margin-top: 0.6em; margin-left: 0.5em; }
-</style>
 
 ---
 permalink: /
