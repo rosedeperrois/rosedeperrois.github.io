@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About
---------
 Welcome! I am a PhD candidate working at INRAE and Université Grenoble Alpes, under the supervision of Adélaïde Fadhuile and Julie Subervie. 
 
 My research interests lie at the intersection of environmental and agricultural economics. I work on establishing the role of social factors in shaping farmers' decisions to adopt agroecological practices, with a focus on peer effects and information diffusion. To do so, I use both quasi-experimental and experimental approaches. 
