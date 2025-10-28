@@ -39,10 +39,6 @@ Other publications
 
 - Beck, M., Bunnen, P. V., **Deperrois, R.**, Bodart, S., Dwyer, J. C., Kubinakova, K., Mackley-Ward, H., Mantino, F., Schuh, B., Münch, A., & Gorny, H. (2023). *Study on the ENRD and the NRNs’ contribution to the implementation of EU Rural Development Policy.* [Link](https://eprints.glos.ac.uk/12850/7/12850%20Beck%2C%20Bunnen%2C%20Deperrois%2C%20Bodart%2C%20Dwyer%2C%20Kubinakova%2C%20Mackley-Ward%2C%20Francesco%2C%20Schuh%2C%20Munch%2C%20Gorny%20%282023%29%20Study%20on%20the%20ENRD%20and%20the%20NRNs%27%20contribution%20to%20the%20implementation%20of%20the%20EU%20rural%20development%20policy.pdf)
 
-CV
---------
-
-You can download my CV [here](/files/CV_Rose_Deperrois_10_2025.pdf).
 
 
 
