@@ -194,3 +194,33 @@ details.abstract-box p {
   font-size: 0.95em;
   line-height: 1.5;
 }
+
+/* === Abstract button (using .btn style, but removing the arrow) === */
+details.abstract-box {
+  margin: 0.5em 0;
+}
+
+/* Inherit .btn style for <summary> */
+details.abstract-box summary.btn {
+  list-style: none; /* neutralise certains marqueurs */
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+/* Remove the default marker/arrow on all browsers */
+details.abstract-box summary.btn::-webkit-details-marker {
+  display: none !important;
+}
+details.abstract-box summary.btn::marker {
+  content: none !important;
+}
+
+/* Optional: slightly adjust vertical spacing */
+details.abstract-box p {
+  margin-top: 0.6em;
+  margin-left: 0.5em;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
