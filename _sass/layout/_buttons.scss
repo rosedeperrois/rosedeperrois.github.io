@@ -153,48 +153,6 @@
   }
 }
 
-
-/* === Abstract button style === */
-details.abstract-box {
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-}
-
-/* Style du "bouton" */
-details.abstract-box summary {
-  cursor: pointer;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  padding: 4px 10px;
-  font-weight: 500;
-  background-color: #f8f9fa;
-  transition: all 0.2s ease-in-out;
-  list-style: none; /* supprime certains marqueurs */
-}
-
-/* Masquer la flèche sur TOUS les navigateurs */
-details.abstract-box summary::-webkit-details-marker,
-details.abstract-box summary::marker {
-  display: none !important;
-  content: "";
-}
-
-/* Effet au survol */
-details.abstract-box summary:hover {
-  background-color: #e6f0ff;
-  border-color: #007acc;
-  color: #007acc;
-}
-
-/* Contenu de l’abstract */
-details.abstract-box p {
-  margin-top: 0.8em;
-  margin-left: 0.5em;
-  font-size: 0.95em;
-  line-height: 1.5;
-}
-
 /* === Abstract button (using .btn style, but removing the arrow) === */
 details.abstract-box {
   margin: 0.5em 0;
