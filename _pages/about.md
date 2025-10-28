@@ -42,7 +42,7 @@ Other publications
 CV
 --------
 
-You can download my CV here: 
+You can download my CV [here](/files/CV Rose Deperrois 10.2025.pdf).
 
 
 
