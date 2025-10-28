@@ -43,10 +43,11 @@ $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
-/* Custom button */
+/* === Custom details/summary styling for abstracts === */
 details summary {
   cursor: pointer;
   color: #007acc;
+  font-weight: 600;
 }
 
 details summary:hover {
