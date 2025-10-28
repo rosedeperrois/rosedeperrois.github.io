@@ -153,38 +153,38 @@
   }
 }
 
-/* === Custom "Abstract" button (green) === */
+// /* === Custom "Abstract" button (green) === */
 
-/* Enlève la flèche devant le summary */
-details.abstract-box summary.btn::-webkit-details-marker,
-details.abstract-box summary.btn::marker {
-  display: none !important;
-  content: none !important;
-}
+// /* Enlève la flèche devant le summary */
+// details.abstract-box summary.btn::-webkit-details-marker,
+// details.abstract-box summary.btn::marker {
+//   display: none !important;
+//   content: none !important;
+// }
 
-/* Supprime les marges parasites */
-details.abstract-box {
-  margin: 0.5em 0;
-}
+// /* Supprime les marges parasites */
+// details.abstract-box {
+//   margin: 0.5em 0;
+// }
 
-/* Couleur et style du bouton */
-.btn-abstract {
-  background-color: #215732 !important; /* vert foncé */
-  color: #fff !important;
-  border: 1px solid #215732 !important;
-  transition: all 0.2s ease-in-out;
+// /* Couleur et style du bouton */
+// .btn-abstract {
+//   background-color: #215732 !important; /* vert foncé */
+//   color: #fff !important;
+//   border: 1px solid #215732 !important;
+//   transition: all 0.2s ease-in-out;
 
-  &:hover {
-    background-color: #1b4729 !important; /* vert encore plus foncé au survol */
-    border-color: #1b4729 !important;
-  }
-}
+//   &:hover {
+//     background-color: #1b4729 !important; /* vert encore plus foncé au survol */
+//     border-color: #1b4729 !important;
+//   }
+// }
 
-/* Texte de l’abstract */
-details.abstract-box p {
-  margin-top: 0.6em;
-  margin-left: 0.5em;
-  font-size: 0.95em;
-  line-height: 1.5;
-}
+// /* Texte de l’abstract */
+// details.abstract-box p {
+//   margin-top: 0.6em;
+//   margin-left: 0.5em;
+//   font-size: 0.95em;
+//   line-height: 1.5;
+// }
 
