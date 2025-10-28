@@ -18,3 +18,10 @@ From February to May 2026, I'll be visiting Columbia University's Center for Env
 Contact
 --------
 Email: rose.deperrois[at]inrae.fr
+
+Publications
+--------
+
+Work in Progress 
+--------
+
