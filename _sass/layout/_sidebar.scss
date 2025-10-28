@@ -243,12 +243,12 @@
       display: none;
     }
   }
-  overflow-wrap: break-word; /* permet de couper les mots trop longs */
-  word-wrap: break-word;     /* compatibilité ancienne syntaxe */
-  word-break: break-word;    /* coupe si nécessaire */
-  white-space: normal;  
+  // overflow-wrap: break-word; /* permet de couper les mots trop longs */
+  // word-wrap: break-word;     /* compatibilité ancienne syntaxe */
+  // word-break: break-word;    /* coupe si nécessaire */
+  // white-space: normal;  
   li {
-    // white-space: nowrap;
+    white-space: normal;
   }
 
   a {
