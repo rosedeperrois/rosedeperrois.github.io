@@ -22,6 +22,15 @@ Email: rose.deperrois[at]inrae.fr
 Publications
 --------
 
+---
+title: "Social Learning to Reduce Pesticides: Evidence from a French Agricultural Extension Programme"
+collection: publications
+category: manuscripts
+date: 2025
+venue: 'European Review of Agricultural Economics'
+paperurl: '[https://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1093/erae/jbaf050)'
+---
+
 Work in Progress 
 --------
 
