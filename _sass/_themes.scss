@@ -42,42 +42,49 @@ $type-size-8                : 0.625em;  // ~10px
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
-/* === Abstract button without arrow === */
-.abstract-container {
-  margin-top: 0.6em;
-  margin-bottom: 0.6em;
+
+/* === Abstract button style === */
+details.abstract-box {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
-.abstract-toggle {
-  background-color: #f8f9fa;
+/* Style du "bouton" */
+details.abstract-box summary {
+  cursor: pointer;
+  display: inline-block;
   border: 1px solid #ccc;
   border-radius: 6px;
-  padding: 4px 12px;
-  cursor: pointer;
-  font-size: 0.9em;
+  padding: 4px 10px;
   font-weight: 500;
+  background-color: #f8f9fa;
   transition: all 0.2s ease-in-out;
+  list-style: none; /* supprime certains marqueurs */
 }
 
-.abstract-toggle:hover {
+/* Masquer la flèche sur TOUS les navigateurs */
+details.abstract-box summary::-webkit-details-marker,
+details.abstract-box summary::marker {
+  display: none !important;
+  content: "";
+}
+
+/* Effet au survol */
+details.abstract-box summary:hover {
   background-color: #e6f0ff;
   border-color: #007acc;
   color: #007acc;
 }
 
-/* Hidden abstract text by default */
-.abstract-text {
-  display: none;
-  margin-top: 0.5em;
+/* Contenu de l’abstract */
+details.abstract-box p {
+  margin-top: 0.8em;
   margin-left: 0.5em;
   font-size: 0.95em;
   line-height: 1.5;
 }
 
-/* When "show" class is toggled */
-.abstract-text.show {
-  display: block;
-}
+
 /* ==========================================================================
    Breakpoints
    ========================================================================== */
