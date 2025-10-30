@@ -17,14 +17,14 @@ Contact
 --------
 Email: rose.deperrois[at]inrae.fr
 
-Research articles
+Academic papers
 --------
 - **Deperrois, R.**, Fadhuile, A. & Subervie, J. (2025). *Social Learning to Reduce Pesticides: Evidence from a French Agricultural Extension Programme*. European Review of Agricultural Economics.  [Link](https://doi.org/10.1093/erae/jbaf050)
 <details class="abstract-box">
 <summary class="btn btn-abstract">Abstract</summary>    <p>Social learning is likely to play a crucial role in disseminating new agricultural technologies and driving the agroecological transition in European countries. We evaluated a French pesticide reduction programme designed to train farmers and promote practices through demonstration days on participating farms. Using pseudo-panel data from surveys conducted before and after the program’s launch, we found evidence of decreased pesticide use among cohorts linked to farms attending demonstration days. Our analysis, supported by a placebo test and various robustness checks, suggests that peer-sharing in training programs can scale up effectively at no additional cost.</p>
   </details>
 
-Registered trials 
+Work in progress 
 --------
 - **Deperrois, R.**, Fadhuile, A., Subervie, J. & Thoyer, S. (2025). *Early Adopters, Peer Leaders and the Diffusion of Agroecological Knowledge*. AEA RCT Registry.  [Link](https://www.socialscienceregistry.org/trials/11129)
 <details class="abstract-box">
