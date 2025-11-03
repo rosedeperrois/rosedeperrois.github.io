@@ -1,4 +1,5 @@
 ---
+<meta name="google-site-verification" content="jvdUeDk74phTtOQ306KkIDkC2_sN13f2w4y8nrLRdoE" />
 permalink: /
 title: "Rose Deperrois"
 author_profile: true
