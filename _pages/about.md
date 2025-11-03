@@ -1,5 +1,4 @@
 ---
-<meta name="google-site-verification" content="jvdUeDk74phTtOQ306KkIDkC2_sN13f2w4y8nrLRdoE" />
 permalink: /
 title: "Rose Deperrois"
 author_profile: true
@@ -7,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<meta name="google-site-verification" content="jvdUeDk74phTtOQ306KkIDkC2_sN13f2w4y8nrLRdoE" />
+
 
 Welcome! I am a PhD candidate working at INRAE and Université Grenoble Alpes, under the supervision of Adélaïde Fadhuile and Julie Subervie. 
 
