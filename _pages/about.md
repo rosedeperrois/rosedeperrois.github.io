@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-Welcome! I am a PhD candidate working at INRAE and Université Grenoble Alpes, under the supervision of Adélaïde Fadhuile and Julie Subervie. 
+Welcome! I am a PhD candidate working at INRAE and Université Grenoble Alpes, under the supervision of [Adélaïde Fadhuile](https://sites.google.com/site/adelaidefadhuile/home) and [Julie Subervie](https://sites.google.com/view/juliesubervie1/home). 
 
-My research interests lie at the intersection of environmental and agricultural economics. I work on establishing the role of social factors in shaping farmers' decisions to adopt agroecological practices, with a focus on peer effects and information diffusion. To do so, I use both quasi-experimental and experimental approaches. 
+My research interests lie at the intersection of environmental and agricultural economics. I work on establishing the role of social factors in shaping farmers' decisions to adopt agroecological practices, with a focus on peer effects and information diffusion. To do so, I use both quasi-experimental and experimental approaches. My PhD is part of the [FAST Project](https://sites.google.com/view/ppr-fast-project/home), which aims to provide scientific evidence supporting public action to transition to pesticide-free agriculture.
 
-From February to May 2026, I'll be visiting Columbia University's Center for Environmental Economics and Policy, hosted by Prof. Jeffrey Shrader.
+From February to May 2026, I'll be visiting Columbia University's Center for Environmental Economics and Policy, hosted by Prof. [Jeffrey Shrader](https://jeffreyshrader.com/).
 
 Contact
 --------
