@@ -36,6 +36,8 @@ Work in progress
 
 Other publications
 -------- 
+- **Deperrois, R.**, Fadhuile, A. & Subervie, J. (2025). Réduire l’usage des pesticides : Quand les agriculteurs s’inspirent de leurs pairs. The Conversation. [Link](https://theconversation.com/reduire-lusage-des-pesticides-quand-les-agriculteurs-sinspirent-de-leurs-pairs-269965)
+
 - Coiffard, A., **Deperrois, R.**, Sauquet, A., & Subervie, J. (2024) *Replication Study of" Coase and cap-and-trade" (Zaklan 2023)*, I4R Discussion Paper Series, No. 112, Institute for Replication (I4R). [Link](https://www.econstor.eu/bitstream/10419/289781/1/I4R-DP112.pdf) 
 
 - Beck, M., Van Bunnen, P., **Deperrois, R.**, Bodart, S., Dwyer, J. C., Kubinakova, K., Mackley-Ward, H., Mantino, F., Schuh, B., Münch, A., & Gorny, H. (2023). *Study on the ENRD and the NRNs’ contribution to the implementation of EU Rural Development Policy.* [Link](https://eprints.glos.ac.uk/12850/7/12850%20Beck%2C%20Bunnen%2C%20Deperrois%2C%20Bodart%2C%20Dwyer%2C%20Kubinakova%2C%20Mackley-Ward%2C%20Francesco%2C%20Schuh%2C%20Munch%2C%20Gorny%20%282023%29%20Study%20on%20the%20ENRD%20and%20the%20NRNs%27%20contribution%20to%20the%20implementation%20of%20the%20EU%20rural%20development%20policy.pdf)
