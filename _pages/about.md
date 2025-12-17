@@ -20,7 +20,7 @@ Contact
 --------
 Email: rose.deperrois[at]inrae.fr
 
-Academic papers
+Academic publications
 --------
 - **Deperrois, R.**, Fadhuile, A. & Subervie, J. (2025). *Social Learning to Reduce Pesticides: Evidence from a French Agricultural Extension Programme*. European Review of Agricultural Economics.  [Link](https://doi.org/10.1093/erae/jbaf050)
 <details class="abstract-box">
