@@ -14,7 +14,7 @@ My research interests lie at the intersection of environmental and agricultural 
 
 My PhD is part of the [FAST Project](https://sites.google.com/view/ppr-fast-project/home), which aims to provide scientific evidence supporting public action to transition to pesticide-free agriculture.
 
-From February to May 2026, I'll be visiting Columbia University's School of International and Public Affairs (SIPA), hosted by Prof. [Jeffrey Shrader](https://jeffreyshrader.com/).
+From February to May 2026, I'll be visiting Columbia University's School of International and Public Affairs (SIPA), hosted by [Jeffrey Shrader](https://jeffreyshrader.com/).
 
 Contact
 --------
